@@ -61,6 +61,9 @@ interface OnNoteClickListener {
         return notes.size();
     }
 
+    /**
+     notesViewHolder
+     */
     class NotesViewHolder extends RecyclerView.ViewHolder{
         private TextView textViewTitle;
         private TextView textViewDescription;
