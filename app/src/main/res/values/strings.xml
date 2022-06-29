@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notes 222 My Application</string>
+    <string name="day_of_week">Day of week:</string>
+    <string name="edit_title">Edit title</string>
+    <string name="edit_description">Edit description</string>
+    <string name="button_add_note">Add Note</string>
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+    <string-array name="days_of_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
